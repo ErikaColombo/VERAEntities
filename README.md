@@ -11,7 +11,7 @@ You can download the new version of VERA [here](https://edoardovigano.itch.io/vi
 
 1. Extract the .zip folder
 
-2. Open the .exe file application doubled clicking. It will be open also a cmd window, it could be used to monitoring the VERA process in a detailed way. Open the .exe file by double-clicking it. A CMD window will also open, which can be used to monitor the VERA process in detail.
+2. Open the .exe file by double-clicking it. A CMD window will also open, which can be used to monitor the VERA process in detail.
 
 3. In a few seconds, the VERA GUI will open. Click on the _Load File_ button in the top left corner of the application to upload an .xlsx file containing the SMILES of the molecule you want to assess with VERA. The SMILES list should be in the first column of the .xlsx file. If you have other indentifiers, you can use the [Chemical Resolver application](https://github.com/EdoardoVigano/Chemical-Resolver) to search for SMILES.
 By double-clicking on a SMILES entry, the structure will be displayed, allowing you to analyze one molecule at a time.
