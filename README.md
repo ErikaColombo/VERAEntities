@@ -30,3 +30,8 @@ By double-clicking on a SMILES entry, the structure will be displayed, allowing 
 6. Then, the read-across process will start. In the Log window, you can check the current step of the algorithm, and the progress bar will indicate the percentage of molecules processed. At the end of the calculation, a window will confirm that VERA has completed the assessment of all provided substances and that the results are available in the selected folder.
 7. Before process other chemicals, click on _Clean Work_.
 
+## Contacts
+
+Edoardo Luca Viganò - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy - e-mail: edoardo.vigano@marionegri.it
+
+Erika Colombo - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy -e-mail: erika.colombo@marionegri.it
