@@ -20,7 +20,7 @@ By double-clicking on a SMILES entry, the structure will be displayed, allowing 
   <img width="622" height="427" src="IMG_VERA/Figure2.png">
 </p>
 
-4. Then, you can select the Edpoint to be evaluated and the type of output, an excel document with all prediction and/or the PDF report for each molecule with all detailed information on how VERA make the assessment.
+4. Then, you can select the Endpoint to be evaluated and the type of output, an excel document with all prediction and/or the PDF report for each molecule with all detailed information on how VERA make the assessment.
 
 <p align="center">
   <img width="622" height="427" src="IMG_VERA/Figure1.png">
