@@ -5,6 +5,33 @@ This version of VERA allow to performe a read-across analysis in two different w
 2. VERA Entities. Starting with a unsupervised analysis, VERA Entities analysed several chemical, biotic and abiotic properties indipendently from the endpoint and used this *entities* to provide the assessment. The publication is ongoing.
 
 
+## Prelimiary check
+
+**Note:** VERA works only on **Linux** and **Windows** environments.
+
+---
+
+#### Verify your Java version
+
+Open the **Command Prompt** (on Windows) or **Terminal** (on Linux) and type:
+
+```bash
+java -version
+
+If you have a Java version greater than 11 and a Java Development Kit (JDK) version greater than 11, you’re good to go ✅
+
+Otherwise, you need to install the latest JDK by following the instructions [here][https://www.oracle.com/java/technologies/downloads/?er=221886], selecting the correct installer for your operating system.
+
+The JDK installation is sufficient to run VERA.
+If you already have an older Java version installed, please uninstall it before using VERA.
+
+#### Antivirus Notice
+
+If you are using AVG Antivirus, please note that it may block the application the first time you run it.
+Simply allow the permission warning — after that, the application will run normally.
+
+When you unzip and open the executable file, make sure to grant the necessary permissions (if prompted) to allow the application to start correctly.
+
 ## How the VERA Entities and Alerts GUI work
 
 You can download the new version of VERA [here](https://edoardovigano.itch.io/virtual-extensive-read-across-vera-entities). The VERA GUI is a stand-alone application, it is not necessary to install the software.
