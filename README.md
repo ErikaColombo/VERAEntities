@@ -14,7 +14,7 @@ This version of VERA allow to performe a read-across analysis in two different w
 Open the **Command Prompt** (on Windows) or **Terminal** (on Linux) and type:
 
 ```bash
-java -version
+>java -version
 ```
 
 If you have a Java version greater than 11 and a Java Development Kit (JDK) version greater than 11, you’re good to go ✅
