@@ -4,6 +4,7 @@ This version of VERA allows to performe a read-across analysis in two different 
 1. VERA Alerts, as described in the papers [1](https://doi.org/10.1016/j.chemosphere.2024.142232) ,[2](https://doi.org/10.3390/molecules27196605). VERA Alerts assess similarity between chemicals using structural alerts specific to the property, pre-defined molecular groups and structural similarity.
 2. VERA Entities. Starting with an unsupervised analysis, VERA Entities analysed several chemical, biotic and abiotic properties independently from the endpoint and used these *entities* to provide the assessment. The publication is ongoing.
 
+<!-- Questo è un commento visibile solo nel sorgente -->
 
 ## Preliminary check
 
