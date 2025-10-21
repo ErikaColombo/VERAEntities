@@ -34,7 +34,7 @@ When you unzip and open the .exe file, make sure to grant the necessary permissi
 
 ## How the VERA Entities and Alerts GUI work
 
-You can download the new version of VERA [here](https://edoardovigano.itch.io/virtual-extensive-read-across-vera-entities). The VERA GUI is a stand-alone application; it is not necessary to install the software.
+You can download the new version of VERA [here](https://escher-2.marionegri.it/d/476ad3aa98a54d588d7a/?dl=1). The VERA GUI is a stand-alone application; it is not necessary to install the software.
 
 1. Extract the .zip folder
 
