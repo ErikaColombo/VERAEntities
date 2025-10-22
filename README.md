@@ -12,7 +12,7 @@ This version of VERA allows to performe a read-across analysis in two different 
 
 ### Verify your Java version
 
-Open the **Command Prompt** (on Windows) and type:
+Open the **Command Prompt** (on Windows write "cmd" on the _search bar_ and click on the application _Terminal_ or _Command Prompt_) and type:
 
 ```bash
 >java -version
@@ -20,17 +20,29 @@ Open the **Command Prompt** (on Windows) and type:
 
 If you have a Java version greater than 11 and a Java Development Kit (JDK) version greater than 11, you’re good to go ✅
 
-Otherwise, you need to install the latest JDK by following the instructions [here](https://www.oracle.com/java/technologies/downloads/?er=221886), selecting the correct installer for your operating system.
+Otherwise, you need to install the latest JDK by following the instructions [here](https://www.oracle.com/java/technologies/downloads/?er=221886). Selecting the correct installer for your operating system and download it (x64 Installer).
 
 The JDK installation is sufficient to run VERA.
 If you already have an older Java version installed, please uninstall it before using VERA.
+
+After downloading and installing the JDK, please open a new Command Prompt and verify that the installation was successful:
+
+```bash
+>java -version
+```
+You should see a message similar to this one:
+
+```bash
+Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+```
 
 ### Antivirus Notice
 
 If you are using AVG Antivirus, please note that it may block the application the first time you run it.
 Simply allow the permission warning — after that, the application will run normally.
 
-When you unzip and open the .exe file, make sure to grant the necessary permissions (if prompted) to allow the application to start correctly.
+**For all antivirus systems**, when you unzip and open the .exe file, make sure to grant any necessary permissions (if prompted) to allow the application to run correctly.
 
 ## How the VERA Entities and Alerts GUI work
 
@@ -38,9 +50,10 @@ You can download the new version of VERA [here](https://escher-2.marionegri.it/d
 
 1. Extract the .zip folder
 
-2. Open the .exe file by double-clicking it. A CMD window will also open, which can be used to monitor the VERA process in detail.
+2. Double-click the .exe file to open it. A CMD window will appear, allowing you to monitor the VERA process in detail. Do not close this window, as it is required for the software to operate properly.
+**Note**: The first time you run VERA, you may need to wait a few seconds for the graphical interface to open. If it hasn’t appeared after a minute, close the CMD window and double-click the .exe file again; the interface should open within a few seconds.
 
-3. In a few seconds, the VERA GUI will open. Click on the _Load File_ button in the top left corner of the application to upload an .xlsx file containing the SMILES of the molecule you want to assess with VERA. The SMILES list should be placed in the first column of the .xlsx file, and the column header should be "SMILES". If you have other identifiers, you can use the [Chemical Resolver application](https://github.com/EdoardoVigano/Chemical-Resolver) to search for SMILES.
+4. In a few seconds, the VERA GUI will open. Click on the _Load File_ button in the top left corner of the application to upload an .xlsx file containing the SMILES of the molecule you want to assess with VERA. The SMILES list should be placed in the first column of the .xlsx file, and the column header should be "SMILES". If you have other identifiers, you can use the [Chemical Resolver application](https://github.com/EdoardoVigano/Chemical-Resolver) to search for SMILES.
 
 <!-- By double-clicking on a SMILES entry, the structure will be displayed, allowing you to analyze one molecule at a time.
 
